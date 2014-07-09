@@ -1,6 +1,6 @@
 <?php
 
-$marks = 120;
+$marks = 49;
 
 if($marks >= 80) {
 
