@@ -9,7 +9,7 @@ $sum =$sum+$i;
 {
 	
 	
-	echo "Sum is $sum";
+	echo "Sum is $sum";//
 
 }
 
