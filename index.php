@@ -30,8 +30,8 @@ $a=2*3+5;
 $name='Sanjib';
 for($i=1; $i<=5; $i++)
 {
+echo $name;
+}
 
-?
-?
 
 ?> 
