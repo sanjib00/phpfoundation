@@ -26,8 +26,9 @@ print_r($fruits);
 echo "</pre>";
 $arr2D = array($cars,$fruits); //parent array
 echo "<pre>";
-print_r($arr2DS);
+print_r($arr2D);
 echo "</pre>";
 
+echo $arr2D[1]['b'];
 
 ?>
