@@ -11,4 +11,13 @@ echo $y."<br/>";
 echo $z."<br/>";
 echo $a."<br/>";
 echo $b."<br/>";
+
+//increment / decrement
+//pre /post
+$a = 2;
+echo $a++."<br/>"; //2
+echo $a--."<br/>"; //3
+echo ++$a."<br/>"; //3
+echo --$a."<br/>"; //2
+echo $a."<br/>"; //2
 ?>
